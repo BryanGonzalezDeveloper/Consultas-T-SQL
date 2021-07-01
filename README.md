@@ -1,5 +1,5 @@
-# Consultas-T-SQL
-#### Incluye todos los ejemplos y ejercicios completos del libro: Programacion Transact con SQL Server 2016 EDITORIAL MACRO
+# Consultas avanzadas con sql server
+Incluye todos los ejemplos y ejercicios propuestos del libro: **Programacion Transact con SQL Server EDITORIAL MACRO**
 El contenido se encuentra **organizado** por capitulos con sus respectivos nombres, al igual que los Scripts. 
 *Se trata de dar una descripcion clara del proposito de cada ejercicio y se explica parte de la sintaxis utilizada.*
 
